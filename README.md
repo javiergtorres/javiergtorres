@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-g-torres-2b2b33433/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Javier, an <a href="https://www.linkedin.com/in/javier-g-torres-2b2b33433/">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
