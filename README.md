@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/javiergtorres/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/javiergtorres/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/javiergtorres/configure-ad)
+  - [Active Directory: Dealing with Account Lockouts,Enabling and Disabling Accounts, and Observing Logs](https://github.com/javiergtorres/configure-ad)
  
 
 <h2>🤳Connect with me:</h2>
