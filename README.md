@@ -9,8 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/javiergtorres/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/javiergtorres/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Active Directory: Dealing with Account Lockouts,Enabling and Disabling Accounts, and Observing Logs](https://github.com/javiergtorres/active-directory_dealing-with-account-lockouts_enabling-and-disabling-accounts_and-observing-logs)
- 
+  - [Active Directory: Dealing with Account Lockouts,Enabling and Disabling Accounts](https://github.com/javiergtorres/active-directory_dealing-with-account-lockouts_enabling-and-disabling-accounts
 
 <h2>🤳Connect with me:</h2>
 
